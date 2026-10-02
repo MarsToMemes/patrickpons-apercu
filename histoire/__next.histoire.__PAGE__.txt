@@ -1,0 +1,51 @@
+1:"$Sreact.fragment"
+2:I[49005,["/patrickpons-apercu/_next/static/chunks/0_han5-ub7l94.js","/patrickpons-apercu/_next/static/chunks/42a8t41vho6xq.js","/patrickpons-apercu/_next/static/chunks/37isw8vs9q79h.js","/patrickpons-apercu/_next/static/chunks/2msxjh49z7k5g.js","/patrickpons-apercu/_next/static/chunks/2wi_8_5c5f497.js","/patrickpons-apercu/_next/static/chunks/35wc-xwv8gpac.js"],"Reveal"]
+3:I[49005,["/patrickpons-apercu/_next/static/chunks/0_han5-ub7l94.js","/patrickpons-apercu/_next/static/chunks/42a8t41vho6xq.js","/patrickpons-apercu/_next/static/chunks/37isw8vs9q79h.js","/patrickpons-apercu/_next/static/chunks/2msxjh49z7k5g.js","/patrickpons-apercu/_next/static/chunks/2wi_8_5c5f497.js","/patrickpons-apercu/_next/static/chunks/35wc-xwv8gpac.js"],"SplitText"]
+4:I[15721,["/patrickpons-apercu/_next/static/chunks/0_han5-ub7l94.js","/patrickpons-apercu/_next/static/chunks/42a8t41vho6xq.js","/patrickpons-apercu/_next/static/chunks/37isw8vs9q79h.js","/patrickpons-apercu/_next/static/chunks/2msxjh49z7k5g.js","/patrickpons-apercu/_next/static/chunks/2wi_8_5c5f497.js","/patrickpons-apercu/_next/static/chunks/35wc-xwv8gpac.js"],"StoryTimeline"]
+5:I[85437,["/patrickpons-apercu/_next/static/chunks/0_han5-ub7l94.js","/patrickpons-apercu/_next/static/chunks/42a8t41vho6xq.js","/patrickpons-apercu/_next/static/chunks/37isw8vs9q79h.js","/patrickpons-apercu/_next/static/chunks/2msxjh49z7k5g.js","/patrickpons-apercu/_next/static/chunks/2wi_8_5c5f497.js","/patrickpons-apercu/_next/static/chunks/35wc-xwv8gpac.js"],"Image"]
+6:I[59544,["/patrickpons-apercu/_next/static/chunks/0_han5-ub7l94.js","/patrickpons-apercu/_next/static/chunks/42a8t41vho6xq.js","/patrickpons-apercu/_next/static/chunks/37isw8vs9q79h.js","/patrickpons-apercu/_next/static/chunks/2msxjh49z7k5g.js","/patrickpons-apercu/_next/static/chunks/2wi_8_5c5f497.js","/patrickpons-apercu/_next/static/chunks/35wc-xwv8gpac.js"],"ButtonLink"]
+7:I[97367,["/patrickpons-apercu/_next/static/chunks/0h2qsuyze9ds1.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+c:I[97367,["/patrickpons-apercu/_next/static/chunks/0h2qsuyze9ds1.js"],"ViewportBoundary"]
+d:I[97367,["/patrickpons-apercu/_next/static/chunks/0h2qsuyze9ds1.js"],"MetadataBoundary"]
+b:X
+2a:X
+2a:C
+0:{"buildId":"LW3vKDktt1DjSpLxq81wx","data":[{"rsc":["$","$1","c",{"children":[[["$","section",null,{"className":"container-pp pb-12 pt-32 md:pb-16 md:pt-44","children":[["$","header",null,{"className":"grid gap-8 md:grid-cols-12 md:items-end","children":[["$","div",null,{"className":"md:col-span-8","children":[["$","$L2",null,{"children":["$","p",null,{"className":"eyebrow mb-6 flex items-center gap-3 text-mute","children":["$undefined","$undefined","Histoire"]}]}],["$","h1",null,{"className":"display text-[clamp(2.6rem,7vw,6.5rem)] uppercase","children":["$","$L3",null,{"text":"Un champion.\nUne adresse."}]}],["$","$L2",null,{"delay":0.15,"children":["$","p",null,{"className":"mt-6 max-w-xl text-lg leading-snug text-mute","children":"Pilote Yamaha, premier Français champion du monde FIM, Patrick Pons a donné son nom à une maison parisienne dédiée à la marque depuis 1977."}]}]]}],"$undefined"]}],"$undefined"]}],["$","section",null,{"className":"container-pp pb-24","children":["$","div",null,{"className":"grid gap-3 md:grid-cols-3","children":[["$","$L2","1977",{"delay":0,"children":["$","div",null,{"className":"flex h-full min-h-56 flex-col justify-between rounded-[var(--radius-panel)] bg-surface p-7","children":[["$","p",null,{"className":"display tabular text-7xl md:text-8xl","children":"1977"}],["$","p",null,{"className":"mt-6 text-mute","children":"Premier magasin, rue de la Roquette"}]]}]}],["$","$L2","1979",{"delay":0.06,"children":["$","div",null,{"className":"flex h-full min-h-56 flex-col justify-between rounded-[var(--radius-panel)] bg-surface p-7","children":[["$","p",null,{"className":"display tabular text-7xl md:text-8xl","children":"1979"}],["$","p",null,{"className":"mt-6 text-mute","children":"Champion du monde Formule 750 sur Yamaha"}]]}]}],["$","$L2","2",{"delay":0.12,"children":["$","div",null,{"className":"flex h-full min-h-56 flex-col justify-between rounded-[var(--radius-panel)] bg-surface p-7","children":[["$","p",null,{"className":"display tabular text-7xl md:text-8xl","children":"2"}],["$","p",null,{"className":"mt-6 text-mute","children":"Magasins : Grande Armée et Bastille"}]]}]}]]}]}],["$","$L4",null,{"index":"—","title":"Né à Paris.\nFaçonné par la course.","cta":false}],["$","section",null,{"className":"container-pp grid gap-10 py-24 md:py-36 lg:grid-cols-12","children":[["$","div",null,{"className":"relative aspect-[4/5] overflow-hidden rounded-[var(--radius-panel)] lg:col-span-5","children":["$","$L5",null,{"src":"/images/editorial/paris-etoile-aerial.jpg","alt":"Vue aérienne de la place de l'Étoile et des avenues qui en partent, dont l'avenue de la Grande Armée","fill":true,"sizes":"(min-width: 1024px) 40vw, 100vw","className":"object-cover"}]}],["$","div",null,{"className":"flex flex-col justify-end lg:col-span-6 lg:col-start-7","children":["$","$L2",null,{"children":[["$","p",null,{"className":"eyebrow text-mute","children":"Aujourd'hui"}],["$","h2",null,{"className":"display mt-6 text-[clamp(2.4rem,5vw,4.5rem)] uppercase","children":"Concessionnaire exclusif Yamaha, depuis l'origine."}],["$","p",null,{"className":"mt-6 max-w-lg text-lg leading-snug text-mute","children":"Neuf, occasion, atelier, location et accessoires : les deux magasins parisiens perpétuent l'attachement à une seule marque."}],["$","p",null,{"className":"mt-4 max-w-lg text-[12px] text-mute","children":"Faits et dates : patrickpons.com (Qui sommes-nous), Wikipédia et archives Yamaha Motor, consultés le 30/09/2026."}],["$","div",null,{"className":"mt-8","children":["$","$L6",null,{"href":"/magasins","arrow":true,"children":"Nous rendre visite"}]}]]}]}]]}]],[["$","script","script-0",{"src":"/patrickpons-apercu/_next/static/chunks/35wc-xwv8gpac.js","async":true}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],"isPartial":"$@a","staleTime":"$b","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$Lc",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f4f2"}]]}],["$","div",null,{"hidden":true,"children":["$","$Ld",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Histoire — Patrick Pons Yamaha Paris · Concept"}],["$","meta","1",{"name":"description","content":"Patrick Pons, champion du monde Formule 750 en 1979, ouvre son premier magasin Yamaha à Paris en 1977."}],"$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25"]}]}]}],"$L26"]}],"isPartial":"$@27","staleTime":"$b","varyParams":null},{"rsc":"$L28","isPartial":"$@29","staleTime":"$b","varyParams":"$2a"}],"isUpgradeableISRFallback":false,"a":"$@2b","rootVaryParams":null,"needsRuntimeRequest":"$@2c"}
+2d:I[27201,["/patrickpons-apercu/_next/static/chunks/0h2qsuyze9ds1.js"],"IconMark"]
+2e:I[39756,["/patrickpons-apercu/_next/static/chunks/0h2qsuyze9ds1.js"],"default"]
+2f:I[37457,["/patrickpons-apercu/_next/static/chunks/0h2qsuyze9ds1.js"],"default"]
+9:null
+e:["$","meta","2",{"name":"application-name","content":"Patrick Pons — concept"}]
+f:["$","meta","3",{"name":"robots","content":"noindex, nofollow"}]
+10:["$","link","4",{"rel":"canonical","href":"https://marstomemes.github.io/patrickpons-apercu/histoire/"}]
+11:["$","meta","5",{"property":"og:title","content":"Patrick Pons — Yamaha / Paris"}]
+12:["$","meta","6",{"property":"og:description","content":"Concept de refonte du site de Patrick Pons, concessionnaire Yamaha à Paris : modèles neufs, occasions, essais, atelier et location à Grande Armée (Paris 16) et Bastille (Paris 11)."}]
+13:["$","meta","7",{"property":"og:url","content":"https://marstomemes.github.io/patrickpons-apercu/"}]
+14:["$","meta","8",{"property":"og:site_name","content":"Patrick Pons — Yamaha / Paris (concept)"}]
+15:["$","meta","9",{"property":"og:locale","content":"fr_FR"}]
+16:["$","meta","10",{"property":"og:image","content":"https://marstomemes.github.io/patrickpons-apercu/opengraph-image?e057088ab5700625"}]
+17:["$","meta","11",{"property":"og:image:type","content":"image/png"}]
+18:["$","meta","12",{"property":"og:image:width","content":"1200"}]
+19:["$","meta","13",{"property":"og:image:height","content":"630"}]
+1a:["$","meta","14",{"property":"og:image:alt","content":"Patrick Pons — Yamaha / Paris (concept de refonte)"}]
+1b:["$","meta","15",{"property":"og:type","content":"website"}]
+1c:["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}]
+1d:["$","meta","17",{"name":"twitter:title","content":"Patrick Pons — Yamaha / Paris"}]
+1e:["$","meta","18",{"name":"twitter:description","content":"Concept de refonte du site de Patrick Pons, concessionnaire Yamaha à Paris : modèles neufs, occasions, essais, atelier et location à Grande Armée (Paris 16) et Bastille (Paris 11)."}]
+1f:["$","meta","19",{"name":"twitter:image","content":"https://marstomemes.github.io/patrickpons-apercu/twitter-image?e057088ab5700625"}]
+20:["$","meta","20",{"name":"twitter:image:alt","content":"Patrick Pons — Yamaha / Paris (concept de refonte)"}]
+21:["$","meta","21",{"name":"twitter:image:type","content":"image/png"}]
+22:["$","meta","22",{"name":"twitter:image:width","content":"1200"}]
+23:["$","meta","23",{"name":"twitter:image:height","content":"630"}]
+24:["$","link","24",{"rel":"icon","href":"/patrickpons-apercu/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}]
+25:["$","$L2d","25",{}]
+26:["$","meta",null,{"name":"next-size-adjust","content":""}]
+28:["$","$1","c",{"children":[null,["$","$L2e",null,{"parallelRouterKey":"children","template":["$","$L2f",null,{}]}]]}]
+2c:true
+b:300
+b:C
+2b:0
+27:"$undefined"
+29:"$undefined"
+a:"$undefined"

@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /
+
+Sitemap: https://marstomemes.github.io/patrickpons-apercu/sitemap.xml
